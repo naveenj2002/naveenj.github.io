@@ -8,6 +8,7 @@ The about page is a description about myself.
 This page consists of all the blogs I have ever posted on this website.
 # Repository Layout:
 My repository consists of the following:
+
 _layouts : it consists of the jekyll code for maintaining the layout of the whole website.
 _posts : it consists of all the blog posts.
 about : this consists the code for the about page while using jekyll.
