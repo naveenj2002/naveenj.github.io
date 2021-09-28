@@ -6,3 +6,5 @@ The home page is what the website is about.
 The about page is a discription about myself.
 # Blog page:
 This page consists of all the blogs I have ever posted on this website.
+# Repository Layout:
+My repository consists of the following:
