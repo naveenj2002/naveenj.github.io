@@ -25,4 +25,4 @@ README.md : this is the read me file(i.e. the code for what you are viewing now.
 
 _config.yml : this file tells Jekyll some basics about your project.(i.e. the name of the website and version of markdown.)
 
-index.html : *code for the home page.
+index.html : code for the home page.
