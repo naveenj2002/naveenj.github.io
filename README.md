@@ -8,3 +8,4 @@ The about page is a discription about myself.
 This page consists of all the blogs I have ever posted on this website.
 # Repository Layout:
 My repository consists of the following:
+_layouts : it is the 
